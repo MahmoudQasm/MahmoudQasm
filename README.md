@@ -81,6 +81,19 @@ React • Redux Toolkit • Node.js • Express.js • PostgreSQL • JWT • St
 - 💻 Source Code: https://github.com/Logic-Cartel/MERAKI_Academy_Project_5
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudQasm&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudQasm&layout=compact&theme=tokyonight"/>
+</p>
+
+
+
+
 ## 🌍 Connect With Me
 
 - 💼 LinkedIn: *(******)*
