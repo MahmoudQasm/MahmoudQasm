@@ -73,7 +73,7 @@ A modern full-stack e-commerce platform built using the MERN ecosystem with secu
 
 ### 🛠 Built With
 
-React • Redux Toolkit • Next.js • Node.js • Express.js • PostgreSQL • JWT • Stripe • Axios
+React • Redux Toolkit • Node.js • Express.js • PostgreSQL • JWT • Stripe • Axios
 
 ### 🔗 Links
 
@@ -81,3 +81,7 @@ React • Redux Toolkit • Next.js • Node.js • Express.js • PostgreSQL �
 - 💻 Source Code: https://github.com/Logic-Cartel/MERAKI_Academy_Project_5
 
 
+## 🌍 Connect With Me
+
+- 💼 LinkedIn: *(******)*
+- 📧 Email: *(m.alshiekhqasem@gmail.com)*
