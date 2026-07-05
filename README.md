@@ -62,3 +62,22 @@ Building modern, scalable, and responsive web applications.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
+
+---
+
+# 🚀 Featured Project
+
+## 🛒 Britex – Full Stack E-Commerce Platform
+
+A modern full-stack e-commerce platform built using the MERN ecosystem with secure authentication, online payments, and role-based dashboards.
+
+### 🛠 Built With
+
+React • Redux Toolkit • Next.js • Node.js • Express.js • PostgreSQL • JWT • Stripe • Axios
+
+### 🔗 Links
+
+- 🌐 Live Demo: [https://YOUR-LIVE-DEMO.com](https://meraki-academy-project-5-4.onrender.com/) 
+- 💻 Source Code: https://github.com/Logic-Cartel/MERAKI_Academy_Project_5
+
+
