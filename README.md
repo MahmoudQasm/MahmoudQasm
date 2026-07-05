@@ -77,21 +77,8 @@ React • Redux Toolkit • Node.js • Express.js • PostgreSQL • JWT • St
 
 ### 🔗 Links
 
-- 🌐 Live Demo: (https://meraki-academy-project-5-4.onrender.com/) 
+- 🌐 **Live Demo:** https://meraki-academy-project-5-4.onrender.com
 - 💻 Source Code: https://github.com/Logic-Cartel/MERAKI_Academy_Project_5
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudQasm&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudQasm&layout=compact&theme=tokyonight"/>
-</p>
-
-
 
 
 ## 🌍 Connect With Me
