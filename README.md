@@ -83,5 +83,5 @@ React • Redux Toolkit • Node.js • Express.js • PostgreSQL • JWT • St
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: *(******)*
+- 💼 LinkedIn: *([](https://www.linkedin.com/in/mahmoud--qasem/))*
 - 📧 Email: *(m.alshiekhqasem@gmail.com)*
